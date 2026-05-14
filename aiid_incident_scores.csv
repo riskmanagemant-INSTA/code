@@ -1,0 +1,214 @@
+D,Q,T,H,M,R,C,S,id,domain,title,labels,real_G_ops
+0,1,1,0,0,0,1,0,1,Others,Google’s YouTube Kids App Presents Inappropriate Content,"Q,C,T",0.443620178041543
+0,1,1,0,1,1,0,0,2,Robotics,Warehouse robot ruptures can of bear spray and injures workers,"M,Q,R,T",0.5571216617210683
+0,1,1,0,1,1,1,0,3,Others,Crashes with Maneuvering Characteristics Augmentation System (MCAS),"Q,C,M,R,T",0.6899109792284867
+1,1,1,1,1,1,1,1,4,Autonomous Vehicle,Uber AV Killed Pedestrian in Arizona,"M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,0,0,0,1,0,5,Medical AI,Collection of Robotic Surgery Malfunctions,"Q,C,T",0.443620178041543
+1,1,1,1,1,1,1,1,6,Others,"Microsoft's TayBot Allegedly Posts Racist, Sexist, and Anti-Semitic Content to Twitter","Q,S,D,H,C,M,R,T",1.0000000000000002
+0,1,1,1,1,1,0,0,7,Others,Wikipedia Vandalism Prevention Bot Loop,"Q,H,M,R,T",0.6743323442136498
+0,1,1,1,1,1,0,0,8,Autonomous Vehicle,Uber Autonomous Cars Running Red Lights,"T,H,R,Q,M",0.6743323442136498
+1,1,1,1,1,1,1,1,9,Education,NY City School Teacher Evaluation Algorithm Contested,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,1,1,1,1,1,10,Autonomous Vehicle,Kronos Scheduling Algorithm Allegedly Caused Financial Issues for Starbucks Employees,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,1,1,1,1,1,11,Others,Northpointe Risk Models,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,0,0,1,0,0,12,Others,Common Biases of Vector Embeddings,"R,Q,D,T",0.5489614243323442
+1,1,1,1,1,1,1,1,13,Others,High-Toxicity Assessed on Text Involving Women and Minority Groups,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,0,0,1,0,0,14,Recruitment / Hiring,Biased Sentiment Analysis,"R,Q,D,T",0.5489614243323442
+1,1,1,0,1,1,1,0,15,Others,Amazon Censors Gay Books,"Q,D,C,M,R,T",0.798219584569733
+1,1,1,1,1,1,1,1,16,Others,Images of Black People Labeled as Gorillas,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,1,1,1,0,0,17,Others,Inappropriate Gmail Smart Reply Suggestions,"T,H,D,R,Q,M",0.7826409495548963
+0,1,1,0,0,0,1,0,18,Others,Gender Biases of Google Image Search,"Q,C,T",0.443620178041543
+1,1,1,1,1,1,1,1,19,Others,Sexist and Racist Google Adsense Advertisements,"M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,0,0,0,1,0,20,Autonomous Vehicle,A Collection of Tesla Autopilot-Involved Crashes,"Q,C,T",0.443620178041543
+1,1,1,0,0,1,0,0,21,Others,Tougher Turing Test Exposes Chatbots’ Stupidity (migrated to Issue),"R,Q,D,T",0.5489614243323442
+0,1,1,0,0,0,1,0,22,Autonomous Vehicle,Waze Navigates Motorists into Wildfires,"Q,C,T",0.443620178041543
+0,1,1,1,1,1,1,0,23,Autonomous Vehicle,Las Vegas Self-Driving Bus Involved in Accident,"C,T,H,R,Q,M",0.8071216617210683
+1,0,1,1,0,0,1,0,24,Robotics,Robot kills worker at German Volkswagen plant,"D,H,C,T",0.5140949554896143
+1,1,1,1,1,1,1,1,25,Autonomous Vehicle,"Google and Delphi Self-Driving Prototypes Allegedly Involved in Near-Miss on San Antonio Road, Palo Alto","M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,0,0,0,1,0,26,Recruitment / Hiring,Hackers Break Apple Face ID,"Q,C,T",0.443620178041543
+0,1,1,0,0,0,1,0,27,Robotics,Nuclear False Alarm,"Q,C,T",0.443620178041543
+0,1,1,1,1,1,1,0,28,Financial Services,2010 Market Flash Crash,"C,T,H,R,Q,M",0.8071216617210683
+1,1,1,0,0,1,0,0,29,Others,Image Classification of Battle Tanks,"R,Q,D,T",0.5489614243323442
+0,1,1,1,1,1,0,0,30,Autonomous Vehicle,Poor Performance of Tesla Factory Robots,"M,T,R,H,Q",0.6743323442136498
+0,1,1,1,1,1,0,0,31,Autonomous Vehicle,Driverless Train in Delhi Crashes due to Braking Failure,"M,T,R,H,Q",0.6743323442136498
+1,1,1,1,1,1,1,1,32,Public Administration,Identical Twins Can Open Apple FaceID Protected Devices,"M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,0,1,1,0,0,33,Recruitment / Hiring,Amazon Alexa Plays Loud Music when Owner is Away,"M,Q,R,T",0.5571216617210683
+1,1,1,1,1,1,0,0,34,Others,Amazon Alexa Responding to Environmental Inputs,"M,D,T,R,H,Q",0.7826409495548963
+0,1,1,1,1,1,1,0,35,Autonomous Vehicle,Employee Automatically Terminated by Computer Program,"M,T,R,H,C,Q",0.8071216617210683
+1,1,1,1,1,1,1,1,36,Autonomous Vehicle,Picture of Woman on Side of Bus Shamed for Jaywalking,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,1,1,1,1,1,37,Recruitment / Hiring,Amazon’s Experimental Hiring Tool Allegedly Displayed Gender Bias in Candidate Rankings,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,1,1,1,0,0,38,Others,Game AI System Produces Imbalanced Game,"Q,D,H,M,R,T",0.7826409495548963
+1,1,1,1,1,1,1,1,39,Education,Deepfake Obama Introduction of Deepfakes,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,40,Others,COMPAS Algorithm Reportedly Performs Poorly in Crime Recidivism Prediction,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,41,Recruitment / Hiring,All Image Captions Produced are Violent,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,0,1,1,1,0,42,Others,Inefficiencies in the United States Resident Matching Program,"M,D,T,R,C,Q",0.798219584569733
+1,1,1,1,1,1,1,1,43,Medical AI,Racist AI behaviour is not a new problem,"C,T,H,D,R,S,Q,M",1.0000000000000002
+0,1,1,0,0,0,1,0,44,Public Administration,Machine Personal Assistants Failed to Maintain Social Norms,"Q,C,T",0.443620178041543
+1,1,1,0,1,1,1,0,45,Others,Defamation via AutoComplete,"C,T,D,R,Q,M",0.798219584569733
+0,1,1,1,0,0,1,0,46,Autonomous Vehicle,Nest Smoke Alarm Erroneously Stops Alarming,"Q,H,C,T",0.5608308605341246
+0,1,1,0,0,0,1,0,47,Others,LinkedIn Search Prefers Male Names,"Q,C,T",0.443620178041543
+1,1,1,1,1,1,1,1,48,Public Administration,Passport checker Detects Asian man's Eyes as Closed,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,1,1,1,1,1,49,Recruitment / Hiring,AI Beauty Judge Did Not Like Dark Skin,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,1,1,1,1,1,50,Financial Services,The DAO Hack,"M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,1,1,1,1,1,51,Robotics,Security Robot Rolls Over Child in Mall,"M,S,T,R,H,C,Q",0.8916913946587537
+1,1,1,1,1,1,1,1,52,Autonomous Vehicle,Tesla on AutoPilot Killed Driver in Crash in Florida while Watching Movie,"Q,S,D,H,C,M,R,T",1.0000000000000002
+0,1,1,0,0,0,1,0,53,Others,Biased Google Image Results,"Q,C,T",0.443620178041543
+1,1,1,1,0,1,1,0,54,Public Administration,Predictive Policing Biases of PredPol,"D,T,R,H,C,Q",0.7989614243323443
+1,1,1,1,1,1,1,1,55,Others,Alexa Plays Pornography Instead of Kids Song,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,56,Others,AI-Designed Phone Cases Are Unexpected,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,0,57,Others,Australian Automated Debt Assessment System Issued False Notices to Thousands,"M,D,T,R,H,C,Q",0.9154302670623147
+1,1,1,1,1,1,1,1,58,Others,Russian Chatbot Supports Stalin and Violence,"M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,0,0,0,1,0,59,Others,Gender Biases in Google Translate,"Q,C,T",0.443620178041543
+1,1,1,1,1,1,1,1,60,Others,FaceApp Racial Filters,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,0,1,1,0,0,1,0,61,Education,Overfit Kaggle Models Discouraged Data Science Competitors,"D,H,C,T",0.5140949554896143
+1,1,1,0,0,1,0,0,62,Autonomous Vehicle,Bad AI-Written Christmas Carols,"R,Q,D,T",0.5489614243323442
+1,1,1,1,1,1,0,0,63,Others,Google Photo Merge Decapitates Subject,"M,D,T,R,H,Q",0.7826409495548963
+0,1,1,1,1,1,0,0,64,Autonomous Vehicle,Customer Service Robot Scares Away Customers,"Q,H,M,R,T",0.6743323442136498
+0,1,1,1,0,1,0,0,65,Others,Reinforcement Learning Reward Functions in Video Games,"H,Q,R,T",0.5578635014836795
+1,1,1,1,1,1,1,1,66,Others,Chinese Chatbots Question Communist Party,"M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,1,1,1,0,0,67,Autonomous Vehicle,Sleeping Driver on Tesla AutoPilot,"M,T,R,H,Q",0.6743323442136498
+0,1,1,0,0,0,1,0,68,Robotics,Security Robot Drowns Itself in a Fountain,"Q,C,T",0.443620178041543
+0,1,1,1,1,1,1,0,69,Autonomous Vehicle,Worker killed by robot in welding accident at car parts factory in India,"M,T,R,H,C,Q",0.8071216617210683
+1,1,1,1,1,1,1,1,70,Autonomous Vehicle,Self-driving cars in winter,"M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,0,0,0,1,0,71,Autonomous Vehicle,Google Waymo Vehicle and Bus Allegedly Collide in California,"Q,C,T",0.443620178041543
+0,1,1,0,0,0,1,0,72,Others,"Facebook translates 'good morning' into 'attack them', leading to arrest","Q,C,T",0.443620178041543
+1,1,1,1,1,1,1,1,73,Others,Is Pokémon Go racist? How the app may be redlining communities of color,"C,T,H,D,R,S,Q,M",1.0000000000000002
+1,1,1,1,1,1,1,1,74,Public Administration,Detroit Police Wrongfully Arrested Black Man Due To Faulty FRT,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,75,Others,Google Instant's Allegedly 'Anti-Semitic' Results Lead To Lawsuit In France,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,1,1,1,1,1,76,Public Administration,Live facial recognition is tracking kids suspected of being criminals,"M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,1,1,1,1,1,77,Robotics,Knightscope's Park Patrol Robot Ignored Bystander Pressing Emergency Button to Alert Police about Fight,"M,S,T,R,H,C,Q",0.8916913946587537
+1,1,1,1,1,1,1,1,78,Education,Meet the Secret Algorithm That's Keeping Students Out of College,"C,T,H,D,R,S,Q,M",1.0000000000000002
+1,1,1,1,1,1,1,0,79,Medical AI,Kidney Testing Method Allegedly Underestimated Risk of Black Patients,"M,D,T,R,H,C,Q",0.9154302670623147
+0,1,1,1,1,1,0,0,80,Others,AI mistakes referee’s bald head for football — hilarity ensued,"M,T,R,H,Q",0.6743323442136498
+1,1,1,0,0,1,0,0,81,Medical AI,"Researchers find evidence of racial, gender, and socioeconomic bias in chest X-ray classifiers","R,Q,D,T",0.5489614243323442
+1,1,1,1,1,1,1,1,82,Others,#LekkiMassacre: Why Facebook labelled content from October 20 incident ‘false’,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,0,83,Others,AI Spam Filters Allegedly Block Legitimate Emails Based on Biased Keyword Detection,"Q,D,H,C,M,R,T",0.9154302670623147
+1,1,1,1,1,1,1,1,84,Others,"Tiny Changes Let False Claims About COVID-19, Voting Evade Facebook Fact Checks","Q,S,D,H,C,M,R,T",1.0000000000000002
+0,1,1,0,1,1,0,0,85,Robotics,"AI attempts to ease fear of robots, blurts out it can’t ‘avoid destroying humankind’","M,Q,R,T",0.5571216617210683
+1,0,1,1,1,1,0,0,86,Education,Coding Errors in Leaving Certificate Grading Algorithm Caused Inaccurate Scores in Ireland,"D,H,M,R,T",0.6275964391691394
+1,1,1,1,1,1,1,1,87,Others,UK passport photo checker shows bias against dark-skinned women,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,89,Recruitment / Hiring,The Christchurch shooter and YouTube’s radicalization trap,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,0,91,Medical AI,Frontline workers protest at Stanford after hospital distributed vaccine to administrators,"C,T,H,D,R,Q,M",0.9154302670623147
+1,1,1,1,1,1,1,1,92,Autonomous Vehicle,Apple Card's Credit Assessment Algorithm Allegedly Discriminated against Women,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,93,Others,HUD charges Facebook with enabling housing discrimination,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,1,1,1,1,1,94,Public Administration,Court Rules Deliveroo Used 'Discriminatory' Algorithm,"Q,S,D,H,C,M,R,T",1.0000000000000002
+0,1,1,0,0,0,1,0,95,Recruitment / Hiring,Job Screening Service Halts Facial Analysis of Applicants,"Q,C,T",0.443620178041543
+0,1,0,1,0,0,1,0,96,Education,Houston Schools Must Face Teacher Evaluation Lawsuit,"Q,C,H",0.4050445103857567
+0,1,1,1,1,1,0,0,97,Autonomous Vehicle,Tesla Autopilot Mistakes Red Letters on Flag for Red Traffic Lights,"M,T,R,H,Q",0.6743323442136498
+0,1,1,0,1,1,1,0,98,Robotics,N.Y.P.D. Robot Dog’s Run Is Cut Short After Fierce Backlash,"Q,C,M,R,T",0.6899109792284867
+1,1,1,1,0,1,1,0,99,Public Administration,Major Universities Are Using Race as a “High Impact Predictor” of Student Success,"D,T,R,H,C,Q",0.7989614243323443
+1,1,1,1,1,1,1,1,100,Medical AI,How French welfare services are creating ‘robo-debt’,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,101,Autonomous Vehicle,Dutch Families Wrongfully Accused of Tax Fraud Due to Discriminatory Algorithm,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,0,0,1,0,0,102,Public Administration,"Personal voice assistants struggle with black voices, new study shows","D,Q,R,T",0.5489614243323442
+1,1,1,1,1,1,1,1,103,Others,Twitter’s Image Cropping Tool Allegedly Showed Gender and Racial Bias,"Q,S,D,H,C,M,R,T",1.0000000000000002
+0,1,0,0,1,0,1,0,104,Medical AI,"California's Algorithm Considered ZIP Codes in Vaccine Distribution, Allegedly Excluding Low-Income Neighborhoods and Communities of Color","Q,C,M",0.4043026706231454
+0,1,1,1,1,1,1,0,105,Autonomous Vehicle,"Tesla Model 3 on Autopilot Crashed into a Ford Explorer Pickup, Killing a Fifteen-Year-Old in California","M,T,R,H,C,Q",0.8071216617210683
+0,1,1,0,0,0,1,0,106,Education,Korean Chatbot Luda Made Offensive Remarks towards Minority Groups,"Q,C,T",0.443620178041543
+1,1,1,1,1,1,1,1,108,Public Administration,Skating Rink’s Facial Recognition Cameras Misidentified Black Teenager as Banned Troublemaker,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,109,Recruitment / Hiring,PimEyes's Facial Recognition AI Allegedly Lacked Safeguards to Prevent Itself from Being Abused,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,1,1,1,1,1,110,Autonomous Vehicle,Arkansas's Opaque Algorithm to Allocate Health Care Excessively Cut Down Hours for Beneficiaries,"M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,0,0,0,1,0,112,Recruitment / Hiring,Police Departments Reported ShotSpotter as Unreliable and Wasteful,"Q,C,T",0.443620178041543
+1,1,1,1,1,1,1,1,113,Others,"Facebook's AI Put ""Primates"" Label on Video Featuring Black Men","Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,1,1,1,1,1,114,Public Administration,Amazon's Rekognition Falsely Matched Members of Congress to Mugshots,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,115,Public Administration,Genderify’s AI to Predict a Person’s Gender Revealed by Free API Users to Exhibit Bias,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,116,Robotics,Amazon's AI Cameras Incorrectly Penalized Delivery Drivers for Mistakes They Did Not Make,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,0,0,1,0,0,118,Others,OpenAI's GPT-3 Associated Muslims with Violence,"D,Q,R,T",0.5489614243323442
+1,1,1,1,1,1,1,1,119,Public Administration,Xsolla Employees Fired by CEO Allegedly via Big Data Analytics of Work Activities,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,1,1,1,1,1,120,Robotics,Philosophy AI Allegedly Used To Generate Mixture of Innocent and Harmful Reddit Posts,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,121,Others,Autonomous Kargu-2 Drone Allegedly Remotely Used to Hunt down Libyan Soldiers,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,0,0,1,1,1,122,Public Administration,"Facebook’s ""Tag Suggestions"" Allegedly Stored Biometric Data without User Consent","Q,D,T,C,R,S",0.766320474777448
+1,1,1,1,1,1,1,1,123,Medical AI,Epic Systems’s Sepsis Prediction Algorithms Revealed to Have High Error Rates on Seriously Ill Patients,"C,T,H,D,R,S,Q,M",1.0000000000000002
+1,1,1,1,1,1,1,1,124,Autonomous Vehicle,Optum Algorithmic Health Risk Scores Reportedly Underestimated Black Patients' Needs,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,1,1,1,1,1,125,Robotics,Amazon’s Robotic Fulfillment Centers Have Higher Serious Injury Rates,"M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,0,1,1,0,0,126,Recruitment / Hiring,"Three Robots Collided, Sparking Fire in a Grocer's Warehouse in UK ","M,R,Q,T",0.5571216617210683
+0,1,1,1,0,0,1,0,127,Others,Microsoft’s Algorithm Allegedly Selected Photo of the Wrong Mixed-Race Person Featured in a News Story,"Q,H,C,T",0.5608308605341246
+0,1,1,0,0,0,1,0,128,Autonomous Vehicle,"Tesla Sedan on Autopilot Reportedly Drove Over Dividing Curb in Washington, Resulting in Minor Vehicle Damage","Q,C,T",0.443620178041543
+1,1,1,1,1,1,1,1,129,Others,"Facebook's Automated Tools Failed to Adequately Remove Hate Speech, Violence, and Incitement","M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,131,Education,Proctoring Algorithm in Online California Bar Exam Flagged an Unusually High Number of Alleged Cheaters,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,0,1,1,0,0,1,0,132,Others,TikTok’s Content Moderation Allegedly Failed to Adequately Take down Videos Promoting Eating Disorders,"D,H,C,T",0.5140949554896143
+1,1,1,1,1,1,1,1,133,Others,Online Trolls Allegedly Abused TikTok’s Automated Content Reporting System to Discriminate against Marginalized Creators,"M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,1,1,1,1,0,134,Robotics,"Robot in Chinese Shopping Mall Fell off the Escalator, Knocking down Passengers","Q,H,C,M,R,T",0.8071216617210683
+1,1,1,1,1,1,1,1,135,Education,UT Austin GRADE Algorithm Allegedly Reinforced Historical Inequalities,"M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,1,1,1,1,0,136,Others,"Brand Safety Tech Firms Falsely Claimed Use of AI, Blocking Ads Using Simple Keyword Lists","M,T,R,H,C,Q",0.8071216617210683
+0,1,0,0,0,0,1,0,137,Others,"Israeli Tax Authority Reportedly Used an Opaque Automated System to Issue a Fine, Declining to Explain or Disclose the Underlying Calculation","Q,C",0.2878338278931751
+1,1,1,1,1,1,1,1,139,Others,Amazon’s Search and Recommendation Algorithms Found by Auditors to Have Boosted Products That Contained Vaccine Misinformation,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,0,0,1,0,140,Education,ProctorU’s Identity Verification and Exam Monitoring Systems Provided Allegedly Discriminatory Experiences for BIPOC Students,"Q,H,T,D,C",0.669139465875371
+1,1,1,1,1,1,1,1,142,Medical AI,Facebook’s Advertisement Moderation System Routinely Misidentified Adaptive Fashion Products as Medical Equipment and Blocked Their Sellers,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,143,Others,Facebook’s and Twitter's Automated Content Moderation Reportedly Failed to Effectively Enforce Violation Rules for Small Language Groups,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,144,Others,YouTube's AI Mistakenly Banned Chess Channel over Chess Language Misinterpretation,"Q,S,D,H,C,M,R,T",1.0000000000000002
+0,1,1,0,0,0,1,0,145,Autonomous Vehicle,Tesla's Autopilot Misidentified the Moon as Yellow Stop Light,"Q,C,T",0.443620178041543
+1,1,1,1,1,1,1,1,146,Others,"Research Prototype AI, Delphi, Reportedly Gave Racially Biased Answers on Ethics","Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,1,1,1,1,1,147,Financial Services,Reported AI-Cloned Voice Used to Deceive Hong Kong Bank Manager in Purported $35 Million Fraud Scheme,"M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,0,0,1,1,0,148,Others,Web Accessibility Vendors Allegedly Falsely Claimed to Provide Compliance Using AI,"R,Q,C,T",0.5734421364985163
+0,1,1,0,0,0,1,0,149,Recruitment / Hiring,Zillow Shut Down Zillow Offers Division Allegedly Due to Predictive Pricing Tool's Insufficient Accuracy,"Q,C,T",0.443620178041543
+0,1,1,0,0,0,1,0,151,Autonomous Vehicle,California Regulator Suspended Pony.ai's Driverless Testing Permit Following a Non-Fatal Collision,"Q,C,T",0.443620178041543
+1,1,1,1,1,1,1,1,152,Medical AI,"SoftBank's Humanoid Robot, Pepper, Reportedly Frequently Made Errors, Prompting Dismissal","M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,1,1,1,1,0,153,Autonomous Vehicle,"Tesla Driver on Autopilot Ran a Red Light, Crashing into a Car and Killing Two People in Los Angeles","Q,H,C,M,R,T",0.8071216617210683
+1,1,1,1,0,1,1,0,154,Others,Justice Department’s Recidivism Risk Algorithm PATTERN Allegedly Caused Persistent Disparities Along Racial Lines,"D,T,R,H,C,Q",0.7989614243323443
+1,1,1,1,1,1,1,1,155,Autonomous Vehicle,Google Maps Allegedly Directed Sierra Nevada Travelers to Dangerous Roads amid Winter Storm,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,156,Others,Amazon Reportedly Sold Products and Recommended Frequently Bought Together Items That Aid Suicide Attempts,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,157,Others,"Amazon's Monitoring System Allegedly Pushed Delivery Drivers to Prioritize Speed over Safety, Leading to Crash","M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,160,Others,Alexa Recommended Dangerous TikTok Challenge to Ten-Year-Old Girl,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,162,Education,"ETS Used Allegedly Flawed Voice Recognition Evidence to Accuse and Assess Scale of Cheating, Causing Thousands to be Deported from the UK","Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,1,1,1,1,1,164,Others,"Facebook ""News Feed"" Allegedly Boosted Misinformation and Violating Content Following Use of MSI Metric","Q,S,D,H,C,M,R,T",1.0000000000000002
+0,1,1,1,1,1,1,1,204,Others,A Chinese Tech Worker at Zhihu Fired Allegedly via a Resignation Risk Prediction Algorithm,"Q,S,M,R,H,T,C",0.8916913946587537
+0,1,1,1,1,1,1,1,205,Others,AI-Generated Profiles Used in Disinformation Campaign Targeting Ukrainians,"Q,S,H,C,M,R,T",0.8916913946587537
+0,1,1,0,1,1,0,0,208,Autonomous Vehicle,"Tesla Phantom Braking Complaints Surged, Allegedly Linked to Tesla Vision Rollout","Q,R,M,T",0.5571216617210683
+1,1,1,0,1,1,1,1,210,Others,Indian Political App Tek Fog Allegedly Hijacked Trends and Manipulated Public Opinion on Other Social Media Platforms,"Q,S,D,C,M,R,T",0.8827893175074184
+1,1,1,0,1,1,1,1,214,Robotics,SN Technologies Reportedly Lied to a New York State School District about Its Facial and Weapon Detection Systems’ Performance,"Q,S,D,C,M,R,T",0.8827893175074184
+1,1,1,1,1,1,1,1,220,Others,Facebook Mistakenly Blocked Small Business Ads,"Q,S,D,H,C,M,R,T",1.0000000000000002
+0,1,1,1,0,0,1,0,239,Robotics,Algorithmic Teacher Evaluation Program Failed Student Outcome Goals and Allegedly Caused Harm Against Teachers,"Q,H,C,T",0.5608308605341246
+0,1,1,0,0,0,1,0,244,Public Administration,"Colorado Police’s Automated License Plate Reader (ALPR) Matched a Family’s Minivan’s Plate to That of a Stolen Vehicle Allegedly, Resulting in Detainment at Gunpoint","Q,C,T",0.443620178041543
+1,1,1,1,1,1,1,1,245,Autonomous Vehicle,Unverified Misreading by Automated Plate Reader Led to Traffic Stop and Restraint of an Innocent Person at Gunpoint in California,"M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,1,0,0,1,0,250,Public Administration,Dutch City Court Defended Home Value Generated by Black-Box Algorithm,"Q,H,C,T",0.5608308605341246
+1,1,1,0,0,1,1,1,254,Public Administration,"Google’s Face Grouping Allegedly Collected and Analyzed Users’ Facial Structure without Consent, Violated BIPA","Q,D,T,C,R,S",0.766320474777448
+1,1,1,1,1,1,1,1,273,Others,FaceApp Predicted Different Genders for Similar User Photos with Slight Variations,"C,T,H,D,R,S,Q,M",1.0000000000000002
+1,1,1,1,1,1,1,1,281,Robotics,YouTube's Algorithms Failed to Remove Violating Content Related to Suicide and Self-Harm,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,1,1,1,1,0,290,Medical AI,False Negatives for Water Quality-Associated Beach Closures,"M,D,T,R,H,C,Q",0.9154302670623147
+0,1,1,1,1,1,0,0,294,Autonomous Vehicle,Tesla Autopilot Allegedly Malfunctioned in a Non-Fatal Collision in Greece,"Q,H,M,R,T",0.6743323442136498
+1,1,1,1,1,1,0,0,313,Others,BlenderBot 3 Cited Dutch Politician as a Terrorist,"T,H,D,R,Q,M",0.7826409495548963
+0,1,1,1,1,1,0,0,323,Autonomous Vehicle,Tesla on Autopilot Crashed into Parked Police Car in California,"Q,H,M,R,T",0.6743323442136498
+1,1,1,1,1,1,1,1,329,Others,Amazon Reportedly Recommends Explosive-Producing Ingredients as 'Frequently Bought Together' Items for Chemicals,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,339,Education,Open-Source Generative Models Abused by Students to Cheat on Assignments and Exams,"M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,0,0,0,1,0,341,Autonomous Vehicle,"Nissan's ""Automatic Emergency Braking"" False Positives Posed Traffic Risks to Drivers","Q,C,T",0.443620178041543
+0,1,1,1,0,0,1,0,349,Recruitment / Hiring,"Evolv AI Weapons Detection System Allegedly Misrepresents Accuracy, Leading to School Security Gaps","Q,H,C,T",0.5608308605341246
+1,1,1,1,1,1,1,1,350,Recruitment / Hiring,Delivery Robot Rolled Through Crime Scene,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,0,1,1,1,0,351,Medical AI,"""The Little Mermaid"" Clip Doctored Using Generative AI to Replace Black Actress with White Character","Q,D,C,M,R,T",0.798219584569733
+1,1,1,1,0,1,1,0,354,Others,Uber Allegedly Violated GDPR by Failing to Provide Sufficient Notice on Automated Profiling for Drivers,"Q,D,H,C,R,T",0.7989614243323443
+1,1,1,1,1,1,1,1,355,Others,Uber Allegedly Wrongfully Accused Drivers of Fraud via Automated Systems,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,0,0,1,1,1,360,Recruitment / Hiring,"McDonald's AI Drive-Thru Allegedly Collected Biometric Customer Data without Consent, Violating BIPA","S,D,T,R,C,Q",0.766320474777448
+1,1,1,1,1,1,0,0,367,Education,"iGPT, SimCLR Learned Biased Associations from Internet Training Data","Q,D,H,M,R,T",0.7826409495548963
+1,1,1,0,0,1,1,1,387,Others,Oracle's Algorithmic Data Processing System Alleged as Unlawful and Violating Privacy Rights,"S,D,T,R,C,Q",0.766320474777448
+0,1,1,0,0,0,1,0,393,Recruitment / Hiring,Facebook AI-Supported Moderation for Ads Failed to Detect Violating Content,"Q,C,T",0.443620178041543
+1,1,1,0,1,1,0,0,396,Others,Transgender Uber Drivers Mistakenly Kicked off App for Appearance Change during Gender Transitions,"T,D,R,Q,M",0.6654302670623146
+1,1,1,1,1,1,1,1,409,Recruitment / Hiring,Facial Recognition Researchers Used YouTube Videos of Transgender People without Consent,"C,T,H,D,R,S,Q,M",1.0000000000000002
+1,1,1,1,1,1,0,0,410,Others,KFC Sent Insensitive Kristallnacht Promotion via Holiday Detection System,"M,D,T,R,H,Q",0.7826409495548963
+1,1,1,1,0,1,1,0,412,Public Administration,Finland Police's Facial Recognition Trial to Identify Sexual Abuse Victims Deemed Illegal,"Q,D,H,C,R,T",0.7989614243323443
+1,1,1,1,1,1,1,1,414,Others,Facebook Gave Vulgar English Translation of Chinese President's Name,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,435,Others,Coupang Allegedly Tweaked Search Algorithms to Boost Own Products,"M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,0,0,0,1,0,452,Others,"ChatGPT-Written Bug Reports Deemed ""Nonsense"" by White Hat Platform, Prompted Bans","Q,C,T",0.443620178041543
+1,1,1,1,1,1,1,1,454,Public Administration,Emotion Detection Models Showed Disparate Performance along Racial Lines,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,456,Others,Replika's AI Partners Reportedly Sexually Harassed Users,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,457,Others,Article-Writing AI by CNET Allegedly Committed Plagiarism,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,461,Financial Services,IRS Audited Black Taxpayers More Frequently Reportedly Due to Algorithm,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,474,Recruitment / Hiring,Users Reported Abrupt Behavior Changes of Their AI Replika Companions,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,476,Recruitment / Hiring,YouTube Recommendations Allegedly Promoted Radicalizing Material Contributing to Terrorist Acts,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,1,1,1,1,1,489,Recruitment / Hiring,Workday's AI Tools Allegedly Enabled Employers to Discriminate against Applicants of Protected Groups,"M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,1,1,1,1,0,490,Others,Clarkesworld Magazine Reportedly Closed Down Submissions Due to Massive Increase in Purportedly AI-Generated Stories,"M,T,R,H,C,Q",0.8071216617210683
+1,1,1,1,1,1,1,1,493,Others,"TikTok User Videos Impersonated Andrew Tate Using AI Voice, Prompting Ban","M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,501,Medical AI,Length of Stay False Diagnosis Cut Off Insurer's Payment for Treatment of Elderly Woman,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,509,Others,Scammers Deepfaked Videos of Victims' Loved Ones Asking for Funds over Facebook in Vietnam,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,1,1,1,0,0,510,Others,Viral Image of Pope Francis in a Puffer Jacket Revealed to Be AI-Generated,"M,D,T,R,H,Q",0.7826409495548963
+0,1,1,1,1,1,1,0,519,Recruitment / Hiring,Starship Delivery Robot Ran into Problems Traversing Campus Terrains,"M,T,R,H,C,Q",0.8071216617210683
+1,1,1,1,1,1,1,1,520,Autonomous Vehicle,Amazon Fresh Cameras Failed to Register Purchased Items,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,526,Others,Novel Deepfake Song Pulled from Music Streaming Services After Allegedly Violating Artist's Rights,"Q,S,D,H,C,M,R,T",1.0000000000000002
+1,1,1,1,1,1,1,1,545,Medical AI,Chatbot Tessa gives unauthorized diet advice to users seeking help for eating disorders,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,547,Others,Ron DeSantis's Presidential Campaign Released Twitter Video Containing AI Images of Donald Trump Hugging Anthony Fauci,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,554,Others,Google Results for Johannes Vermeer Featured AI Version of His Artwork as Top Result,"M,S,D,T,R,H,C,Q",1.0000000000000002
+0,1,1,0,0,0,1,0,564,Financial Services,Voice deepfake targets bank in failed transfer scam,"Q,C,T",0.443620178041543
+1,1,1,1,1,1,1,1,574,Others,AI-Generated Articles at G/O Media Allegedly Diminishes Reputation of Human Staff,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,576,Others,"Alleged Misuse of PicSo AI for Generating Inappropriate Content Emphasizing ""Girls""","M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,583,Others,Instagram Algorithms Allegedly Promote Accounts Facilitating Child Sex Abuse Content,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,594,Others,AI Meal Planner Suggests Hazardous Chlorine Gas Recipe,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,603,Autonomous Vehicle,Algorithmic Allocation of Resources in Healthcare for Disabled and Elderly Care Services Allegedly Harming Patients,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,614,Others,Google Bard Allegedly Generates False Allegations Against Consulting Firms Used in Research Presented in Australian Parliamentary Inquiry,"M,S,D,T,R,H,C,Q",1.0000000000000002
+1,1,1,1,1,1,1,1,619,Public Administration,Rite Aid Facial Recognition Disproportionately Misidentified Minority Shoppers as Shoplifters,"C,T,H,D,R,S,Q,M",1.0000000000000002
